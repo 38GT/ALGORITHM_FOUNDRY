@@ -8,7 +8,6 @@ public class Binary_search {
     }
 
     public int listSearchWithWhile(List<Integer> arr, int target) {
-
         int start = 0;
         int end = arr.size() - 1;
 
